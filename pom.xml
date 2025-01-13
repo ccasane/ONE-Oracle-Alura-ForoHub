@@ -11,8 +11,8 @@
 	<groupId>com.one</groupId>
 	<artifactId>forohub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>forohub</name>
-	<description>Demo project for Spring Boot</description>
+	<name>ForoHub</name>
+	<description>Challenge ONE-ORACLE-ALURA ForoHub</description>
 	<url/>
 	<licenses>
 		<license/>
